@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>Guessing Game for Mustafa Balaban</title>
+<title>Guessing Game for Mustafa Balaban 3ab394c3</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
