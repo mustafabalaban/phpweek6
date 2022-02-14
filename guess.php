@@ -1,10 +1,10 @@
 <html>
 <body>
-<title>Guessing Game for Mustafa Balaban 3ab394c3</title>
+<title>Guessing Game for Mustafa Balaban</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
-$correctnumber=6;
+$correctnumber=3ab394c3;
 
 if($_GET['guess'])
 {
