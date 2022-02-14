@@ -4,7 +4,7 @@
 <h1> Welcome to my guessing game</h1>
 
 <?php
-$correctnumber=3ab394c3;
+$correctnumber=36;
 
 if($_GET['guess'])
 {
